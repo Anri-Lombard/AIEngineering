@@ -35,4 +35,19 @@ Three Layers of the AI Stack
 
 2. Model development
 
-- requires tooling like frameworks for modelling, training, finetuning, and inference optimization.
+- requires tooling like frameworks for modelling, training, finetuning, and inference optimization
+- contains data engineering
+- contains evals
+
+3. Infrastructure
+
+- model serving, managing data and compute, and monitoring
+
+AI Engineering vs ML Engineering
+
+- AI Engineering is more about adapting and evaluating models than building them from scratch
+
+AI Engineering vs Full Stack Engineering
+
+- Since interfaces are important, AI engineering is more like full stack engineering, and frontend is important
+- The advantage full stack engineers have is that they can turn an idea into a demo quickly
