@@ -2,7 +2,7 @@
 
 Critical or complementary
 
-- AI reliability directly porportional to how critical it is to the application
+- AI reliability directly proportional to how critical it is to the application
   Reactive vs Proactive
 - Reactive: AI is used to react to user input
   - Need to be fast and accurate most of the time
@@ -35,4 +35,4 @@ Three Layers of the AI Stack
 
 2. Model development
 
-- requires tooling like frameworks for modelling, trainign, finetuning, and inference optimization.
+- requires tooling like frameworks for modelling, training, finetuning, and inference optimization.
